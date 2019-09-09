@@ -1,0 +1,28 @@
+{
+  "name": "interview",
+  "version": "0.0.1",
+  "description": "Interview Assignment for new employees and/or interns of Index Software B.V.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indexsoftware/interview.git"
+  },
+  "keywords": [
+    "Interview",
+    "Questions",
+    "Index",
+    "Software"
+  ],
+  "author": "Daen Rebel, Index Software B.V.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indexsoftware/interview/issues"
+  },
+  "homepage": "https://github.com/indexsoftware/interview#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
